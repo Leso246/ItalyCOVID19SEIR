@@ -1,36 +1,37 @@
-# 🦠 Modellazione della diffusione del SARS-CoV-2 e delle strategie di contenimento in Italia
+# 🦠 Modeling the Spread of SARS-CoV-2 and Containment Strategies in Italy
 
-Questo progetto è stato realizzato per il corso **Sistemi Complessi: Modelli e Simulazione**,
-primo anno del Corso di Laurea Magistrale in Informatica presso l'Università degli Studi di Milano-Bicocca
-(_UNIMIB@Disco_), appello di Giugno 2025.
+This project was carried out for the course **Complex Systems: Models and Simulation**,  
+first year of the Master’s Degree in Computer Science at the University of Milano-Bicocca (_UNIMIB@Disco_), June 2025 exam session.
 
-> **Esito:** 30/30
+> **Grade:** 30/30
 
-La ricerca analizza e simula la pandemia di SARS-CoV-2 in Italia durante la _Fase 1_,
-utilizzando il software [GLEAMviz](https://www.gleamviz.org/).
+The research analyzes and simulates the SARS-CoV-2 pandemic in Italy during _Phase 1_,  
+using the [GLEAMviz](https://www.gleamviz.org/) software.
 
-Sono stati sviluppati due scenari principali:
+Two main scenarios were developed:
 
-- **Scenario 1:** simulazione che riproduce il più fedelmente possibile la realtà, con l'introduzione delle restrizioni.
-- **Scenario 2:** simulazione _what-if_ che ipotizza l'assenza totale di restrizioni.
+- **Scenario 1:** simulation that reproduces reality as faithfully as possible, including the introduction of restrictions.
+- **Scenario 2:** _what-if_ simulation assuming a total absence of restrictions.
 
-Entrambi i modelli sono disponibili in formato XML e possono essere importati direttamente in GLEAMviz.
-
----
-
-## 👥 Autori
-
-- Broccoletti Andrea ([Github](https://github.com/BrockDeveloper))
-- Lesinigo Simone ([GitHub](https://github.com/leso246))
+Both models are available in XML format and can be imported directly into GLEAMviz.
 
 ---
 
-## 💻 Gleamviz
+## 👥 Authors
 
-Per ogni ulteriore specifica sul simulatore utilizzato, si rimanda al [sito ufficiale](https://www.gleamviz.org/) dello stesso.
+- Andrea Broccoletti ([GitHub](https://github.com/BrockDeveloper))
+- Simone Lesinigo ([GitHub](https://github.com/leso246))
+
+---
+
+## 💻 GLEAMviz
+
+For further details about the simulator used, refer to the [official website](https://www.gleamviz.org/).
 
 [The GLEAMviz computational tool, a publicly available software to explore realistic epidemic spreading scenarios at the global scale](http://www.biomedcentral.com/1471-2334/11/37).  
 W. Van den Broeck, C. Gioannini, B. Gonçalves, M. Quaggiotto, V. Colizza, A. Vespignani. _BMC Infectious Diseases_ **11**, 37 (2011).
 
 [Seasonal transmission potential and activity peaks of the new influenza A(H1N1): a Monte Carlo likelihood analysis based on human mobility](http://www.biomedcentral.com/1741-7015/7/45/abstract).  
 D. Balcan, H. Hu, B. Goncalves, P. Bajardi, C. Poletto, J. J. Ramasco, D. Paolotti, N. Perra, M. Tizzoni, W. Van den Broeck, V. Colizza, A. Vespignani. _BMC Medicine_ **7**, 45 (2009).
+
+[Italian README](README-IT.md)
