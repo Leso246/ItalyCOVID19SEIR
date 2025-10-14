@@ -1,3 +1,5 @@
+[English README](README.md)
+
 # 🦠 Modellazione della diffusione del SARS-CoV-2 e delle strategie di contenimento in Italia
 
 Questo progetto è stato realizzato per il corso **Sistemi Complessi: Modelli e Simulazione**,
@@ -34,5 +36,3 @@ W. Van den Broeck, C. Gioannini, B. Gonçalves, M. Quaggiotto, V. Colizza, A. Ve
 
 [Seasonal transmission potential and activity peaks of the new influenza A(H1N1): a Monte Carlo likelihood analysis based on human mobility](http://www.biomedcentral.com/1741-7015/7/45/abstract).  
 D. Balcan, H. Hu, B. Goncalves, P. Bajardi, C. Poletto, J. J. Ramasco, D. Paolotti, N. Perra, M. Tizzoni, W. Van den Broeck, V. Colizza, A. Vespignani. _BMC Medicine_ **7**, 45 (2009).
-
-[English README](README.md)
