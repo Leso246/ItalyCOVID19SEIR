@@ -21,7 +21,7 @@ Entrambi i modelli sono disponibili in formato XML e possono essere importati di
 ## 👥 Autori
 
 - Broccoletti Andrea ([Github](https://github.com/BrockDeveloper))
-- Lesinigo Simone ([GitHub](https://github.com/leso246))
+- Lesinigo Simone ([GitHub](https://github.com/simone-lesinigo))
 
 ---
 

@@ -20,7 +20,7 @@ Both models are available in XML format and can be imported directly into GLEAMv
 ## 👥 Authors
 
 - Andrea Broccoletti ([GitHub](https://github.com/BrockDeveloper))
-- Simone Lesinigo ([GitHub](https://github.com/leso246))
+- Simone Lesinigo ([GitHub](https://github.com/simone-lesinigo))
 
 ---
 
